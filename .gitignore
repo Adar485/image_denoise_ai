@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env (ileride kullanırsan)
+venv/
+.env/
+.venv/
+
+# Veri seti ve çıktı klasörleri
+data/
+checkpoints/
+outputs/
+
+# VS Code ayarları
+.vscode/
